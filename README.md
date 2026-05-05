@@ -75,6 +75,3 @@
 </p>
 
 ---
-  "Not just coding the future — engineering it."
-
----
