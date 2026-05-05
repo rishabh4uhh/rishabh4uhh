@@ -75,9 +75,6 @@
 </p>
 
 ---
-
-## ⚡ Quote
-
-> "Not just coding the future — engineering it."
+     "Not just coding the future — engineering it."
 
 ---
