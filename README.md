@@ -60,24 +60,6 @@
 </p>
 
 ---
-
-## 🧠 What I'm Learning
-
-- 🔹 Advanced Python for AI  
-- 🔹 LLM Applications & Prompt Engineering  
-- 🔹 Backend Development (APIs, Databases)  
-
----
-
-## 🎯 Goals for 2026
-
-- 🚀 Build 3+ real-world AI projects  
-- 💼 Secure a high-impact internship  
-- 🌐 Contribute to open source  
-- 📈 Strengthen DSA & system design  
-
----
-
 ## ✍️ Dev Quote
 
 <p align="center">
