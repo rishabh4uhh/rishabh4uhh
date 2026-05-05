@@ -1,25 +1,101 @@
-# 💫 About Me:
-I am a motivated BTech Computer Science Engineering student with a passion for AI and web development. My self-taught experiences, especially in building an LLM-powered chatbot, have strengthened my programming skills. I excel in communication and problem-solving, contributing effectively in collaborative settings. I seek part-time internships to enhance my learning and contribute to student-focused initiatives
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Shailendra Vishwakarma</h1>
+<h3 align="center">🚀 B.Tech CSE Student | AI & Web Developer | Building with LLMs</h3>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shailendravishwakarma003@gmail.com) 
-
-## 🗃️ Resume:
-[(resume: https://drive.google.com/file/d/1rLLFH0Nm9btYxi7GLvKL67HfgpPtzWET/view?usp=sharing)]
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rishabh4uhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rishabh4uhh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishabh4uhh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="mailto:shailendravishwakarma003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1rLLFH0Nm9btYxi7GLvKL67HfgpPtzWET/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-blue?logo=google-drive&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rishabh4uhh&icon=8&color=5)](https://visitcount.itsvg.in)
 
+## 💫 About Me
 
+🎓 I’m a **Computer Science Engineering student** passionate about building intelligent systems and modern web applications.  
+
+🤖 My core interest lies in **Artificial Intelligence**, especially working with **Large Language Models (LLMs)** to create real-world solutions.  
+
+🛠️ I’ve built an **LLM-powered chatbot**, strengthening my skills in **Python, APIs, and system design**.  
+
+💡 I enjoy solving problems, collaborating in teams, and turning ideas into working products.  
+
+🚀 Currently looking for **part-time internships** in **AI, backend, or web development**.
+
+---
+
+## 🚀 Featured Project
+
+### 🧠 LLM Chatbot
+> AI-powered conversational assistant built using modern LLM APIs  
+
+- 🔹 Designed conversational flows and prompt strategies  
+- 🔹 Integrated APIs for real-time responses  
+- 🔹 Focused on improving response relevance and usability  
+- 🔹 Built using **Python + API integration**
+
+📌 *(Tip: Add GitHub repo link here when available)*
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,mysql,bash,git" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=rishabh4uhh&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rishabh4uhh&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishabh4uhh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 What I'm Learning
+
+- 🔹 Advanced Python for AI  
+- 🔹 LLM Applications & Prompt Engineering  
+- 🔹 Backend Development (APIs, Databases)  
+
+---
+
+## 🎯 Goals for 2026
+
+- 🚀 Build 3+ real-world AI projects  
+- 💼 Secure a high-impact internship  
+- 🌐 Contribute to open source  
+- 📈 Strengthen DSA & system design  
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabh4uhh&color=blue" />
+</p>
+
+---
+
+## ⚡ Quote
+
+> "Not just coding the future — engineering it."
+
+---
