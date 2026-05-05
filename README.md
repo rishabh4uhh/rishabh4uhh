@@ -37,7 +37,7 @@
 - 🔹 Focused on improving response relevance and usability  
 - 🔹 Built using **Python + API integration**
 
-📌 *(Tip: Add GitHub repo link here when available)*
+
 
 ---
 
