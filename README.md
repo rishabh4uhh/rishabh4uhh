@@ -21,8 +21,6 @@
 
 🛠️ I’ve built an **LLM-powered chatbot**, strengthening my skills in **Python, APIs, and system design**.  
 
-💡 I enjoy solving problems, collaborating in teams, and turning ideas into working products.  
-
 🚀 Currently looking for **part-time internships** in **AI, backend, or web development**.
 
 ---
