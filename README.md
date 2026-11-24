@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Shailendra Vishwakarma</h1>
-<h3 align="center">🚀 B.Tech CSE Student | AI & Web Developer | Building with LLMs</h3>
+<h3 align="center">🚀 Cybersecurity & IoT Student | Software Developer | Exploring AI & Web Development</h3>
 
 <p align="center">
   <a href="mailto:shailendravishwakarma003@gmail.com">
@@ -15,26 +15,46 @@
 
 ## 💫 About Me
 
-🎓 I’m a **Computer Science Engineering student** passionate about building intelligent systems and modern web applications.  
+💻 Working with C++, Python, and Web Technologies.
 
-🤖 My core interest lies in **Artificial Intelligence**, especially working with **Large Language Models (LLMs)** to create real-world solutions.  
+🌐 Learning Frontend Development and building web projects.
 
-🛠️ I’ve built an **LLM-powered chatbot**, strengthening my skills in **Python, APIs, and system design**.  
+🤖 Exploring Artificial Intelligence and Large Language Models (LLMs).
 
-🚀 Currently looking for **part-time internships** in **AI, backend, or web development**.
+🔐 Interested in Cybersecurity and emerging technologies.
 
+🧩 Practicing Data Structures & Algorithms.
+
+🚀 Interested in internship and collaborative development opportunities.
 ---
 
 ## 🚀 Featured Project
 
-### 🧠 LLM Chatbot
-> AI-powered conversational assistant built using modern LLM APIs  
+🧠 LLM-Powered Chatbot
 
-- 🔹 Designed conversational flows and prompt strategies  
-- 🔹 Integrated APIs for real-time responses  
-- 🔹 Focused on improving response relevance and usability  
-- 🔹 Built using **Python + API integration**
+An AI-powered conversational chatbot built using Python and LLM APIs.
 
+Integrated LLM APIs for conversational responses.
+
+Explored prompt engineering and conversational workflows.
+
+Focused on response relevance and usability.
+
+🍔 FoodieHub
+
+A food website built as a frontend development practice project.
+
+HTML and CSS.
+
+Website layout and responsive design.
+
+Navigation, sections, and UI components.
+
+🌐 Nidarshan
+
+A web development project.
+
+Explore the project through my GitHub repositories.
 
 
 ---
