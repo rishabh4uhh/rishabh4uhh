@@ -32,17 +32,12 @@
 🍔 FoodieHub
 
 A food website built as a frontend development practice project.
-
-HTML and CSS.
-
 Website layout and responsive design.
-
 Navigation, sections, and UI components.
 
 🌐 Nidarshan
 
 A web development project.
-
 Explore the project through my GitHub repositories.
 
 
